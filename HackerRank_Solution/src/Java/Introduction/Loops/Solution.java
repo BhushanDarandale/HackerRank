@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class Solution {
     public static void main(String[] args) {
+    	//Sample input :5
         Scanner scan = new Scanner(System.in);
         int multiplier = scan.nextInt();
         scan.close();

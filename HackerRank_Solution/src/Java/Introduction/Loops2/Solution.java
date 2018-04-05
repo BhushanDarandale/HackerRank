@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 class Solution{
     public static void main(String[] args) {
+    	//Sample input: 5 6 2
         Scanner scan = new Scanner(System.in);
         int t = scan.nextInt();
         for (int i = 0; i < t; i++) {

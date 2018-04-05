@@ -6,6 +6,8 @@ import java.util.Locale;
 public class Solution {
     public static void main(String[] args) {
         /* Save input */
+    	
+    	//Sample input :123.00
         Scanner scanner = new Scanner(System.in);
         double payment = scanner.nextDouble();
         scanner.close();

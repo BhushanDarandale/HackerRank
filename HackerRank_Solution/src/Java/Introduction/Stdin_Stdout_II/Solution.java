@@ -5,6 +5,15 @@ import java.util.Scanner;
 public class Solution {
     public static void main(String[] args) {
         /* Read input */
+    	
+        /*
+        Sample input :
+        2
+    	12.0
+    	bhushan
+    	 */
+    	
+    	
         Scanner scan = new Scanner(System.in);
         int i    = scan.nextInt();
         double d = scan.nextDouble();

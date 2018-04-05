@@ -1,11 +1,10 @@
 package Java.Introduction.Static_Initializer_Block;
-import java.io.*;
-import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
+import java.util.Scanner;
 
 public class Solution {
+	
+	//Sample input : -3 5
+	
     private static int B;
     private static int H;
     private static boolean flag;
