@@ -1,0 +1,16 @@
+package Java.String.Strings_Introduction;
+
+import java.util.Scanner;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        
+        Scanner sc=new Scanner(System.in);
+        String A=sc.next();
+        String B=sc.next();
+        String c= A.concat(B);
+        System.out.println(c);
+        
+    }
+}
